@@ -1,6 +1,6 @@
 ### Hi there, I'm Ismael Correia Ferreira- aka Ismael Correia Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<a href="ismaelcorreia980@gmail.com">
+<a href="[ismaelcorreia980@gmail.com](https://mail.google.com/mail/u/1/#inbox)">
   <img align="left" alt="Ismael | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/Ismael Correia ferreira/">
@@ -16,7 +16,7 @@
 
 👨‍💻 Systems Analysis and Development student at SESI SENAI  
 💡 Passionate about **software development, databases, and user experience**  
-🔭 Currently learning **Python, JavaScript, HTML, CSS** and exploring **IA & Cloud computing**  
+🔭 Currently learning **JavaScript, HTML, CSS** and exploring **IA & Cloud computing**  
 🚀 Always building projects and improving my skills
 
 ---
@@ -35,7 +35,6 @@
 [html]: https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[python]: https://www.python.org/
 
 <br></br>
 
