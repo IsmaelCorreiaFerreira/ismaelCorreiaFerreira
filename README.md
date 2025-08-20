@@ -3,7 +3,7 @@
 <a href="[ismaelcorreia980@gmail.com](https://mail.google.com/mail/u/1/#inbox)">
   <img align="left" alt="Ismael | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-<a href="linkedin.com.br">
+<a href=["linkedin.com.br"](https://www.google.com/search?q=linkedin&rlz=1C1GCHN_enBR1175BR1175&oq=linkedin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAtIBCDIyNzFqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)>
   <img align="left" alt="Ismael | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
